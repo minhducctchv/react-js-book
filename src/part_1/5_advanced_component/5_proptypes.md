@@ -26,3 +26,4 @@ Complex types:
 - node
 - element
 
+Xem [Appendix A: PropTypes](../../part_2/8_appendix_a/1_validators.md)
