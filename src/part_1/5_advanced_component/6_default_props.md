@@ -1,0 +1,1 @@
+# Default props with getDefaultProps()
